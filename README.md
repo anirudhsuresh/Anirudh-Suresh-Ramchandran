@@ -5,11 +5,12 @@
 *	Designed models using K-means and Gaussian Mixture Models to cluster 51 random companies based on thier trading patterns .The resulting clusters showed resemblances in sectors, market cap, or price-to-earnings ratios.
 *	Programmed time series models using Linear Regression, Prophet to forecast adjusted closing prices for any given stock based on its historical data. 
 * *Languages and Packages used* :R,Python,Prophet,K-means,GMM,plotly,seaborn
-
-<img src="https://user-images.githubusercontent.com/56661161/112733980-41b3b380-8f00-11eb-8889-c59afb5a9436.JPG" width="450" height="350"  align="left">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56661161/112733980-41b3b380-8f00-11eb-8889-c59afb5a9436.JPG" width="450" height="350">
+</p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/56661161/112734009-5ee88200-8f00-11eb-8f08-7f6a4a23cc41.JPG" width="450" height="350">
-
+</p>
 ## Project 2 :[Classifying which NYC taxi ride would be get Tips ](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
 *	Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
 *	Designed a classifier model that could tell if a Taxi driver would get tips based on factors like the pickup/drop location and hours. 
