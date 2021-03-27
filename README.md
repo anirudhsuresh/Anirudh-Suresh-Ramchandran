@@ -21,8 +21,26 @@
 
 ## Project 4: [Solving Adaptive 2048 using Deep Q learning](https://github.com/anirudhsuresh/Deep-Q-learning-on-adaptive-2048-Game)
 
-*	Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game 
+*	Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game, thus making it harder and 'evil. 
 *	Implemented an intelligent Q learning agent with a 5-layer end-to-end, Deep learning-based neural network to learn game control policies, which enabled the agent to get scores of ‘512.’ 
+
+## Project 5: COVID -19 Analysis 
+* Using COVID 19 data , travel data during the year 2020 , studied the following :
+    1. IDentify the race most affected by COVID 19  
+    2. Find which age group would be most affected by COVID-19
+    3. Which Gender would have more hospitalizations from COVID-19
+    4. IF the number of Covid cases per capita would increase with the number of trips for that particular state 
+
+
+## EXPERIENCE 
+### Graduate Student Researcher -*UC DAVIS*
+* Designed a closed-loop model of a lettuce crop growth cycle and its greenhouse model in Python and validated the plant’s growth results with existing literature
+* Designed an environment using Open-AI gym to model the greenhouse environment, to use a Reinforcement learning agent, to predict greenhouse parameters, and, hence, to optimize the growth model of the plant 
+
+### Data Quality and Electronics Intern - Schneider Electric, Bangalore, India			                                   
+* Data collection of near-miss accidents and other incidents. 
+* Visual Data Analysis to help in gain insights to develop company policies. 
+* This aided in the reduction of factory downtime by 2% from previous months by preventing these near miss accidents 
 
 
 
