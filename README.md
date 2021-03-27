@@ -14,9 +14,9 @@
 ## Project 3: [Developer Name Disambiguation (de-aliasing) on Apache Software Foundation(ASF)](https://github.com/anirudhsuresh/Final-Project-for-ECS-189L---Developer-Name-Disambiguation)
 *	Scraped the 330 projects present in the ASF using BeautifulSoup4, then performed the necessary pre-processing steps to create a clean data set.
 *	Designed clustering models:
-  1. to correctly find full author name given only project name, 
-  2. To find developers’ hidden email id 
-  3. Clustering similar author/developer names
+    1. To correctly find full author name given only project name, 
+    2. To find developers’ hidden email id 
+    3. Clustering similar author/developer names
 * Models showed an accuracy of around 90% when assessed.
 
 ## Project 4: [Solving Adaptive 2048 using Deep Q learning](https://github.com/anirudhsuresh/Deep-Q-learning-on-adaptive-2048-Game)
