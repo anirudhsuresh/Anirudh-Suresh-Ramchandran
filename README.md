@@ -6,31 +6,43 @@
 *	Programmed time series models using Linear Regression, Prophet to forecast adjusted closing prices for any given stock based on its historical data. 
 * *Languages and Packages used* :R,Python,Prophet,K-means,GMM,plotly,seaborn
 
+![](https://user-images.githubusercontent.com/56661161/112733980-41b3b380-8f00-11eb-8889-c59afb5a9436.JPG)
+
+![pto](https://user-images.githubusercontent.com/56661161/112734009-5ee88200-8f00-11eb-8f08-7f6a4a23cc41.JPG)
 
 ## Project 2 :[Classifying which NYC taxi ride would be get Tips ](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
 *	Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
-*	Designed a classifier model that could tell if a Taxi driver would get tips based on factors like the pickup/drop location and hours. Model was able to get an accuracy of around 88%.
+*	Designed a classifier model that could tell if a Taxi driver would get tips based on factors like the pickup/drop location and hours. 
+*	Model was able to get an accuracy of around 88%.
+
+![032818cabs6bs_157198452](https://user-images.githubusercontent.com/56661161/112734033-8e978a00-8f00-11eb-8c96-29e758622c79.jpg)
+
 
 ## Project 3: [Developer Name Disambiguation (de-aliasing) on Apache Software Foundation(ASF)](https://github.com/anirudhsuresh/Final-Project-for-ECS-189L---Developer-Name-Disambiguation)
 *	Scraped the 330 projects present in the ASF using BeautifulSoup4, then performed the necessary pre-processing steps to create a clean data set.
-*	Designed clustering models:
+* Designed clustering models:
         1. To correctly find full author name given only project name, 
         2. To find developers’ hidden email id 
         3. Clustering similar author/developer names
 * Models showed an accuracy of around 90% when assessed.
+
+![classifying_ecs_189K](https://user-images.githubusercontent.com/56661161/112734062-ae2eb280-8f00-11eb-9f7c-5331abbc2540.png)
+
 
 ## Project 4: [Solving Adaptive 2048 using Deep Q learning](https://github.com/anirudhsuresh/Deep-Q-learning-on-adaptive-2048-Game)
 
 *	Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game, thus making it harder and 'evil. 
 *	Implemented an intelligent Q learning agent with a 5-layer end-to-end, Deep learning-based neural network to learn game control policies, which enabled the agent to get scores of ‘512.’ 
 
+
+
 ## Project 5: [COVID -19 Analysis](https://github.com/anirudhsuresh/ECI_254_project1_covid_analysis) 
 * Using COVID 19 data , travel data during the year 2020 , studied the following :
-
         1. IDentify the race most affected by COVID 19  
         2. Find which age group would be most affected by COVID-19
         3. Which Gender would have more hospitalizations from COVID-19
         4. IF the number of Covid cases per capita would increase with the number of trips for that particular state 
+
 
 
 ## EXPERIENCE 
