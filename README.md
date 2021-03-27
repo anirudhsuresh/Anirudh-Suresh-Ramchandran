@@ -6,7 +6,7 @@
 *	Programmed time series models using Linear Regression, Prophet to forecast adjusted closing prices for any given stock based on its historical data. 
 * *Languages and Packages used* :R,Python,Prophet,K-means,GMM,plotly,seaborn
 
-<img src="https://user-images.githubusercontent.com/56661161/112733980-41b3b380-8f00-11eb-8889-c59afb5a9436.JPG" width="450" height="350">
+<img src="https://user-images.githubusercontent.com/56661161/112733980-41b3b380-8f00-11eb-8889-c59afb5a9436.JPG" width="450" height="350"  align="left">
 
 <img src="https://user-images.githubusercontent.com/56661161/112734009-5ee88200-8f00-11eb-8f08-7f6a4a23cc41.JPG" width="450" height="350">
 
@@ -19,7 +19,9 @@
 <img src="https://user-images.githubusercontent.com/56661161/112734033-8e978a00-8f00-11eb-8c96-29e758622c79.jpg" width="450" height="350">
 
 ## Project 3: [Developer Name Disambiguation (de-aliasing) on Apache Software Foundation(ASF)](https://github.com/anirudhsuresh/Final-Project-for-ECS-189L---Developer-Name-Disambiguation)
-*	Scraped the 330 projects present in the ASF using BeautifulSoup4, then performed the necessary pre-processing steps to create a clean data set.
+<img src="https://user-images.githubusercontent.com/56661161/112734062-ae2eb280-8f00-11eb-9f7c-5331abbc2540.png" width="450" height="350" align="right">
+
+* Scraped the 330 projects present in the ASF using BeautifulSoup4, then performed the necessary pre-processing steps to create a clean data set.
 * Designed clustering models:
 * To correctly find full author name given only project name 
 * To find developers’ hidden email id 
@@ -27,15 +29,16 @@
 * Models showed an accuracy of around 90% when assessed.
 
 
-<img src="https://user-images.githubusercontent.com/56661161/112734062-ae2eb280-8f00-11eb-9f7c-5331abbc2540.png" width="450" height="350">
+
+
 
 ## Project 4: [Solving Adaptive 2048 using Deep Q learning](https://github.com/anirudhsuresh/Deep-Q-learning-on-adaptive-2048-Game)
+<img src="https://user-images.githubusercontent.com/56661161/112734369-97895b00-8f02-11eb-9dcb-1bc535f29038.png" width="450" height="350" align="right">
 
 *	Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game, thus making it harder and 'evil. 
 *	Implemented an intelligent Q learning agent with a 5-layer end-to-end, Deep learning-based neural network to learn game control policies, which enabled the agent to get scores of ‘512.’ 
 
 
-<img src="https://user-images.githubusercontent.com/56661161/112734369-97895b00-8f02-11eb-9dcb-1bc535f29038.png" width="450" height="350">
 
 ## Project 5: [COVID -19 Analysis](https://github.com/anirudhsuresh/ECI_254_project1_covid_analysis) 
 * Using COVID 19 data , travel data during the year 2020 , studied the following :
