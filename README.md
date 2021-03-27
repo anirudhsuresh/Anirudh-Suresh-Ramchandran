@@ -24,7 +24,7 @@
 *	Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game, thus making it harder and 'evil. 
 *	Implemented an intelligent Q learning agent with a 5-layer end-to-end, Deep learning-based neural network to learn game control policies, which enabled the agent to get scores of ‘512.’ 
 
-## Project 5: COVID -19 Analysis 
+## Project 5: [COVID -19 Analysis](https://github.com/anirudhsuresh/ECI_254_project1_covid_analysis) 
 * Using COVID 19 data , travel data during the year 2020 , studied the following :
     1. IDentify the race most affected by COVID 19  
     2. Find which age group would be most affected by COVID-19
