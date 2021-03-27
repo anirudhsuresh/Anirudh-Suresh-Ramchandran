@@ -42,5 +42,11 @@
 * Visual Data Analysis to help in gain insights to develop company policies. 
 * This aided in the reduction of factory downtime by 2% from previous months by preventing these near miss accidents 
 
-
+## Certifications :
+1. Git Complete: The definitive, step-by-step guide to Git: Udemy						              
+2. The Ultimate Hands-On Hadoop:-Udemy 								              
+3. KPMG Virtual Data Analytics Consulting Internship								         
+    *Completed practical task modules in Data Quality Assessment and Data Insights using MS Excel and Python, and data insight presentation using a Tableau dashboard
+4. Tableau: Visualizing Citibike Trips - Coursera Guided Projects      					           	       
+5. Creating Interactive Dashboards with Streamlit and Python- Coursera Guided Projects 			                            
 
