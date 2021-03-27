@@ -26,10 +26,10 @@
 
 ## Project 5: [COVID -19 Analysis](https://github.com/anirudhsuresh/ECI_254_project1_covid_analysis) 
 * Using COVID 19 data , travel data during the year 2020 , studied the following :
-    1. IDentify the race most affected by COVID 19  
-    2. Find which age group would be most affected by COVID-19
-    3. Which Gender would have more hospitalizations from COVID-19
-    4. IF the number of Covid cases per capita would increase with the number of trips for that particular state 
+        1. IDentify the race most affected by COVID 19  
+        2. Find which age group would be most affected by COVID-19
+        3. Which Gender would have more hospitalizations from COVID-19
+        4. IF the number of Covid cases per capita would increase with the number of trips for that particular state 
 
 
 ## EXPERIENCE 
