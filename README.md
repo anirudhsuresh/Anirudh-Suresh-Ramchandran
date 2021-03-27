@@ -7,7 +7,7 @@
 * *Languages and Packages used* :R,Python,Prophet,K-means,GMM,plotly,seaborn
 
 
-## Project 2 :[Classifying which NYC taxi ride would be get Tips ](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
+## Project 2 :[Classifying which NYC taxi ride would be getting Tips ](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
 *	Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
 *	Designed a classifier model that could tell if a Taxi driver would get tips based on factors like the pickup/drop location and hours. Model was able to get an accuracy of around 88%.
 
