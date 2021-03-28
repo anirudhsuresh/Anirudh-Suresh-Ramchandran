@@ -16,7 +16,7 @@
 * Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
 * Developed a random forested-based classifier model to predict whether a taxi ride would get tips. 
 * The model had an accuracy of 88%.
-
+* *Languages and Packages used* :R ggplot2,random-forest,tidymodels
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56661161/112734033-8e978a00-8f00-11eb-8c96-29e758622c79.jpg" width="450" height="350">
@@ -30,6 +30,8 @@
         * To find developers’ hidden email id 
         * Clustering similar author/developer names
 * Models showed an accuracy of around 90% when assessed.
+* *Languages and Packages used* :Python Bs4,pandas,K-means,sklearn
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56661161/112734062-ae2eb280-8f00-11eb-9f7c-5331abbc2540.png" width="450" height="350">
@@ -40,6 +42,8 @@
 
 * Modified the popular sliding block game ‘2048’ to hinder the player from using already known strategies for winning the game, thus making it harder and 'evil. 
 * Implemented an intelligent Q learning agent with a 5-layer end-to-end, Deep learning-based neural network to learn game control policies, which enabled the agent to get scores of ‘512.’ 
+* *Languages and Packages used* :Python CNN, Open AI Gym
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56661161/112734369-97895b00-8f02-11eb-9dcb-1bc535f29038.png" width="450" height="350">
@@ -51,7 +55,7 @@
         2.  Find which age group would be most affected by COVID-19
         3.  Which Gender would have more hospitalizations from COVID-19
         4.  IF the number of Covid cases per capita would increase with the number of trips for that particular state 
-
+* *Languages and Packages used* :R ggplot2,ggeasy
 
 
 ## EXPERIENCE 
