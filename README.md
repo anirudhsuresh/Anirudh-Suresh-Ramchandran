@@ -60,13 +60,15 @@
 
 ## EXPERIENCE 
 ### Graduate Student Researcher -*UC DAVIS*
-* Designed a closed-loop model of a lettuce crop growth cycle and its greenhouse model in Python and validated the plant’s growth results with existing literature
-* Designed an environment using Open-AI gym to model the greenhouse environment, to use a Reinforcement learning agent, to predict greenhouse parameters, and, hence, to optimize the growth model of the plant 
+* Developed a closed loops model for a lettuce plant grown in a Greenhouse . Validated the plant's growth cycle with existing literature.
+* Built reinforcement learning agent to predict greenhouse parameters and, hence, optimize the plant's growth model.
+* Utilized Open AI -gym to create the plants greenhouse model environment 
 
 ### Data Quality and Electronics Intern - Schneider Electric, Bangalore, India			                                   
-* Data collection of near-miss accidents and other incidents. 
-* Visual Data Analysis to help in gain insights to develop company policies. 
-* This aided in the reduction of factory downtime by 2% from previous months by preventing these near miss accidents 
+* Set up a data base for collection of near-miss accidents and other incidents in the factory floor.
+* Performed visual and expolratory analysis on collected data.
+* Presented  results to team and wrote requested executive summary detailing strategy to help reduce factory downtime to present to end clients and senior leadership
+
 
 ## Certifications :
 1. Git Complete: The definitive, step-by-step guide to Git: Udemy						              
