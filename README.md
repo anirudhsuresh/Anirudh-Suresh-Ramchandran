@@ -12,10 +12,11 @@
 <img src="https://user-images.githubusercontent.com/56661161/112734009-5ee88200-8f00-11eb-8f08-7f6a4a23cc41.JPG" width="450" height="350">
 </p>
 
-## Project 2 :[Classifying which NYC taxi ride would be get Tips](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
-*	Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
-*	Designed a classifier model that could tell if a Taxi driver would get tips based on factors like the pickup/drop location and hours. 
-*	Model was able to get an accuracy of around 88%.
+## Project 2 :[Classifer to model which NYC taxi ride would receive a tip](https://github.com/anirudhsuresh/Green_taxi_Tip_Classifier)
+* Performed exploratory data analysis in R and was able to show how various factors impacted tipping in an NYC taxi ride 
+* Developed a random forested-based classifier model to predict whether a taxi ride would get tips. 
+* The model had an accuracy of 88%.
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56661161/112734033-8e978a00-8f00-11eb-8c96-29e758622c79.jpg" width="450" height="350">
